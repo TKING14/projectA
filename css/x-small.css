@@ -1,0 +1,10 @@
+h1{font-size:1.125rem;}
+h2{font-size:1.000em;}
+h3{font-size:0.889rem;}
+p{font-size:0.889rem;}
+
+section{padding:1em;}
+.section-row{flex-direction:column;}
+.section-side{margin: 0;display:flex;flex-direction: column;align-items: center;justify-content: center;}
+
+.x-large{display:none;}

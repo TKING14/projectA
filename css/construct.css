@@ -1,0 +1,19 @@
+.banner{background-color:rgb(var(--black));color:rgb(var(--white));height:30vh;}
+.large{height:70vh;justify-content: center;}
+.medium{height:40vh;justify-content: center;}
+.footer-row{display:flex;flex-direction:row;justify-content: space-between;align-items: center;}
+.footer-side{width:100%;}
+
+.nav-icon{width:1em;aspect-ratio: 1;}
+.nav-list{display:flex;}
+.nav-list-anchor{padding:1vw;font-weight: bold;}
+
+.placeholder-img{filter: opacity(75%) grayscale(100%);}
+
+.primary{background-color:rgb(50,50,200);color:rgb(var(--white));}
+.secondary{background-color: rgb(var(--white));}
+.thertiary{background-color: rgb(var(--white-dark));}
+
+.section-row{display:flex; flex-direction:row;justify-content:center;}
+.section-side{margin: 1vw;display:flex;flex-direction: column;align-items: center;justify-content: center;}
+.section-img{aspect-ratio: 16/9; width: 30rem;}

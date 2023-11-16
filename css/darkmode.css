@@ -1,0 +1,5 @@
+body{color:rgb(var(--white));background-color:rgb(var(--black));}
+
+.primary{background-color:rgb(50,50,200);color:rgb(var(--black-light));}
+.secondary{background-color: rgb(var(--black));}
+.thertiary{background-color: rgb(var(--black-light));}
