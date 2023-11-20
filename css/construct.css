@@ -5,6 +5,7 @@
 .footer-side{width:100%;}
 
 .nav-main{background-color:rgb(50,50,200);color:rgb(var(--white));height:8rem;}
+.mar8r{margin-top:8rem;}
 .nav-icon{width:1em;aspect-ratio:1;}
 .nav-list{display:flex;}
 .nav-list-anchor{font-weight: bold;padding:1vw;}

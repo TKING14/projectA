@@ -76,3 +76,4 @@ img{background-color: rgb(var(--white-dark));}
 footer{flex-direction: column;display:flex;justify-content: space-between;padding:2rem;}
 a:hover{opacity:0.75;}
 a:active{background-color: rgb(var(--white));}
+main{margin-top:4rem;}
