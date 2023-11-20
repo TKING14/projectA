@@ -4,9 +4,10 @@
 .footer-row{display:flex;flex-direction:row;justify-content: space-between;align-items: center;}
 .footer-side{width:100%;}
 
-.nav-icon{width:1em;aspect-ratio: 1;}
+.nav-main{background-color:rgb(50,50,200);color:rgb(var(--white));height:8rem;}
+.nav-icon{width:1em;aspect-ratio:1;}
 .nav-list{display:flex;}
-.nav-list-anchor{padding:1vw;font-weight: bold;}
+.nav-list-anchor{font-weight: bold;padding:1vw;}
 
 .placeholder-img{filter: opacity(75%) grayscale(100%);}
 
